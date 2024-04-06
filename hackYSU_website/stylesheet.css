@@ -1,0 +1,39 @@
+body {
+    background-color: cornflowerblue;
+    font-family: Tahoma, sans-serif;
+    color: #000;
+}
+
+.heading-primary span {
+    color: #000;
+}
+
+#container {
+    text-align: center;
+}
+
+.btn {
+    margin: 2rem;
+    padding: .5rem;
+    text-decoration: none;
+}
+
+.btn-primary {
+    background-color: #009688;
+    color: #fff;
+}
+
+.btn-secondary {
+    background-color: #f44336;
+    color: #fff;
+}
+
+.heading-secondary {
+    text-align: center;
+    margin: .5rem;
+}
+
+#para {
+    font-size: .7em;
+    color: #000;
+}
